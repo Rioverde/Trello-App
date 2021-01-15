@@ -1,16 +1,46 @@
-# trello_project_test
+# Trello App Test Project
 
-A new Flutter project.
+A flutter project similar to Trello cards.
+
+- API provided by nekidaem.ru
+- Used bloc Pattern for requests (Registering and getting the data)
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Check your Flutter configs using :
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+flutter doctor -v
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Running App
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+If you need to run application, just use following command
+
+```bash
+flutter run
+```
+and choose the simulater or have active device plugged in via USB.
+
+### Create an App
+
+if you want to generate app use :
+
+```bash
+flutter clean
+```
+
+For Android :
+
+```bash
+flutter build apk
+```
+or
+
+For IOS : 
+
+```bash
+flutter build apk
+```
+
