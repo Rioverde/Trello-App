@@ -1,9 +1,9 @@
 # Trello App Test Project
 
-A flutter project similar to Trello cards.
+A Flutter project similar to Trello cards.
 
 - API provided by nekidaem.ru
-- Used bloc Pattern for requests (Loggin In and getting the data)
+- Used Bloc Pattern for requests (Loggin In and getting the data)
 
 
 ## Getting Started
