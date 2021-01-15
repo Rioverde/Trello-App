@@ -3,7 +3,7 @@
 A flutter project similar to Trello cards.
 
 - API provided by nekidaem.ru
-- Used bloc Pattern for requests (Registering and getting the data)
+- Used bloc Pattern for requests (Loggin In and getting the data)
 
 
 ## Getting Started
